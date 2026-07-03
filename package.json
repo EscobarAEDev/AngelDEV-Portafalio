@@ -1,0 +1,27 @@
+{
+  "name": "draw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EscobarAEDev/AngelDEV-Portafalio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EscobarAEDev/AngelDEV-Portafalio/issues"
+  },
+  "homepage": "https://github.com/EscobarAEDev/AngelDEV-Portafalio#readme",
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.35"
+  },
+  "devDependencies": {
+    "vite": "^8.1.3"
+  }
+}
